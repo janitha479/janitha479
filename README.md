@@ -76,7 +76,7 @@ class TechSpecialist:
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%33326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### SECURITY & NETWORKING
 
@@ -274,3 +274,8 @@ $ cat current_missions.txt
 *⭐ Don't forget to star repositories that spark your interest!*
 
 </div>
+
+<video width="60%" autoplay loop muted playsinline>
+  <source src="./assets/166650-835203652_small.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><br>
